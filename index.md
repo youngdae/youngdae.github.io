@@ -20,6 +20,12 @@ I am looking for highly motivated students who are interested in working at the 
 * IE205: Basic Probability Theory for Engineers (Spring 2025)
 * IE551: Nonlinear Optimization (Fall 2024)
 
+# Software
+* [ExaTron.jl](https://github.com/exanauts/ExaTron.jl): Batch nonlinear programming on GPUs (written in Julia)
+* [A real-time optimization of a rolling horizon multiperiod ACOPFs](https://github.com/youngdae/rto) (written in Julia)
+* [SELKIE](https://www.gams.com/27/docs/S_SELKIE.html): An agent-based decomposition method for equilibrium problems (written in C)
+* [New JAMS for equilibrium programming](https://www.gams.com/latest/docs/UG_EMP_SharedConstraints.html) (written in Delphi)
+* [Block LU update](https://www.gams.com/51/docs/RN_26.html?search=block%20lu#g2610_PATH): It is being currently used as one of the linear algebra engines for the PATH solver (written in C)
 
 
 
