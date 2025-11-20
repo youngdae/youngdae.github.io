@@ -4,7 +4,7 @@ Prior to joining UNIST in 2024, I was a Postdoctoral Appointee in the Mathematic
 
 See my [Google Scholar page](https://scholar.google.com/citations?user=Sha3L-0AAAAJ&hl=en) for publications.
 
-I am always looking for highly motivated students who are interested in working at the intersection of optimization, AI, and GPU computing. One position is currently available.
+I am looking for highly motivated students who are interested in working at the intersection of optimization, AI, and GPU computing. One position is currently available.
 
 # Current Projects
 * (PI: Excellent Young Researcher Program (우수신진연구), 2025-2026) GPU-accelerated, privacy-preserving, large-scale distributed optimization for cross-biobank genome-wide association studies, in collarboration with Argonne National Laboratory
