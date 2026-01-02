@@ -7,7 +7,7 @@ See my [Google Scholar page](https://scholar.google.com/citations?user=Sha3L-0AA
 I am looking for highly motivated students who are interested in working at the intersection of optimization, AI, and GPU computing. One position is currently available.
 
 # Current Projects
-* (PI: Excellent Young Researcher Program (한국연구재단 우수신진연구), 2025-2026) GPU-accelerated, privacy-preserving, large-scale distributed optimization for cross-biobank genome-wide association studies, in collarboration with Argonne National Laboratory
+* (PI: Excellent Young Researcher Program (한국연구재단 우수신진연구), 2025.03-2027.02) GPU-accelerated, privacy-preserving, large-scale distributed optimization for cross-biobank genome-wide association studies, in collarboration with Argonne National Laboratory
 
 # Students
 * Taeyeop Kang (2025-Present)
