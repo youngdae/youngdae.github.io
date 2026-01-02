@@ -14,9 +14,10 @@ I am looking for highly motivated students who are interested in working at the 
   
 # Teaching
 **Current**
-* IE201: Operations Research I (Fall 2025)
+* IE205: Basic Probability Theory for Engineers (Spring 2026)
 
 **Previous**
+* IE201: Operations Research I (Fall 2025)
 * IE205: Basic Probability Theory for Engineers (Spring 2025)
 * IE551: Nonlinear Optimization (Fall 2024)
 
