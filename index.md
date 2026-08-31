@@ -4,7 +4,7 @@ Prior to joining UNIST in 2024, I was a Postdoctoral Appointee in the Mathematic
 
 See my [Google Scholar page](https://scholar.google.com/citations?user=Sha3L-0AAAAJ&hl=en) for publications.
 
-I am looking for highly motivated students who are interested in working at the intersection of optimization, AI, and GPU computing. One position is currently available.
+I am looking for highly motivated students who are interested in working at the intersection of optimization, AI, and GPU computing.
 
 # Current Projects
 * (4세부 PI: 초거대산업 AI 연구지원  (정보통신기획평가원), 2026.04-2030.12) Development of industry-specified multimodal hyperscale foundation model based technologies for manufacturing, predictive maintenance, and process optimization
@@ -15,9 +15,10 @@ I am looking for highly motivated students who are interested in working at the 
   
 # Teaching
 **Current**
-* IE205: Basic Probability Theory for Engineers (Spring 2026)
+* IE201: Operations Research I (Fall 2026)
 
 **Previous**
+* IE205: Basic Probability Theory for Engineers (Spring 2026)
 * IE201: Operations Research I (Fall 2025)
 * IE205: Basic Probability Theory for Engineers (Spring 2025)
 * IE551: Nonlinear Optimization (Fall 2024)
